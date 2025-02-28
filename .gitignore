@@ -1,4 +1,6 @@
 /started
 test/*
+!test/.gitkeep
 data/*
+!data/.gitkeep
 /.ipynb_checkpoints
