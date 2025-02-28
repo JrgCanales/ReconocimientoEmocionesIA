@@ -1,5 +1,4 @@
 /started
-/logs
-/test
-/data
+test/*
+data/*
 /.ipynb_checkpoints
